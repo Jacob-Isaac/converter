@@ -1,0 +1,14 @@
+.footer {
+    background-color: rgb(125, 143, 182);
+    border: solid;
+    text-align: center;
+    border-width: 2px 0px 0px 0px;
+    min-width: 320px;
+    width: 100%;
+    margin: 0 auto;
+    overflow-x: auto;
+    margin-top: 135px;
+  }
+  .footer__text {
+    padding-top: 8px;
+  }

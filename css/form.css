@@ -1,0 +1,51 @@
+.form {
+    max-width: 720px;
+    min-width: 320px;
+    margin: auto;
+    margin-top: 115px;
+    padding: 60px;
+    border: solid;
+    border-width: 2px;
+    border-radius: 20px;
+    box-shadow: 0px 5px 19px -6px #bcbcbc;
+    text-align: center;
+  }
+  .form__legend {
+    border: solid;
+    border-width: 2px;
+    border-radius: 8px;
+    padding: 5px;
+    background-color: rgb(125, 143, 182);
+  }
+  .form__labelPLN--polishFlag {
+    padding-right: 15px;
+    position: relative;
+    top: 10px;
+  }
+  .form__button--image {
+    width: 32px;
+  }
+  .form__labelUSD--usaFlag {
+    padding-right: 15px;
+    position: relative;
+    top: 10px;
+  }
+  .form__labelMultiplier--font {
+    color: antiquewhite;
+  }
+  .form__labelMultiplier--input {
+    width: 60px;
+    margin-top: 40px;
+  }
+  .converter {
+    margin-top: 15px;
+    text-align: center;
+  }
+  .converter__button--image {
+    width: 80%;
+    max-width: 40px;
+    min-width: 25px;
+  }
+  .converter__text {
+    color:antiquewhite
+  }
