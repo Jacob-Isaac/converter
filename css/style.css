@@ -20,15 +20,21 @@ html {
   box-shadow: 0px 5px 19px -6px #bcbcbc;
 }
 .body {
-  background-image: linear-gradient(to bottom, #48aaaa 0%, #1b0338 100%);
+  background-image: url(../images/oleg-background.jpg);
   background-repeat: no-repeat;
   background-color: rgb(125, 143, 182);
   background-size: 100000px;
   font-family: "Montserrat", sans-serif;
   margin: 0 auto;
+  background-size: cover;
+  background-color: green;
+  background-repeat: no-repeat;
+  resize: both;
+  overflow: auto;
+  background-position: 50%;
 }
+
 .body__headerFont {
   font-family: "Stardos Stencil", sans-serif;
   text-align: center;
 }
-
