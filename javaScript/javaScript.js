@@ -1,5 +1,5 @@
-let plnElement = document.querySelector(".js-pln");
-let usdElement = document.querySelector(".js-usd");
+let plnElement = document.querySelector(".js-PLNinput");
+let usdElement = document.querySelector(".js-USDinput");
 let multiplierElement = document.querySelector(".js-multiplier");
 let formConverter = document.querySelector(".js-converter");
 let converterButton = document.querySelector(".js-converter__button");
